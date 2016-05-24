@@ -1,1 +1,1 @@
-Last Update: 2016-05-19T10:00:00Z - feat: Initial commit for Developer-Portfolio project
+Last Update: 2016-05-24T14:15:00Z - feat(layout): Implement responsive navigation bar
