@@ -1,1 +1,1 @@
-Last Update: 2016-05-24T14:15:00Z - feat(layout): Implement responsive navigation bar
+Last Update: 2016-05-25T16:00:00Z - feat(layout): Add hero section with profile image placeholder
